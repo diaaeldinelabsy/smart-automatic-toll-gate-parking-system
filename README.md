@@ -62,3 +62,7 @@ This project is an automated toll gate and parking management system using Ardui
 
 * DiaaEldin Elabsy
 * Suchi Chowdhury
+
+## Demonstration Video
+
+[Watch Project Demo](https://drive.google.com/file/d/1vDcb4RlCRuinkEnaYcBUy4h85nd2GUjv/view?usp=drive_link)
