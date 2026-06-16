@@ -28,7 +28,7 @@ This project is an automated toll gate and parking management system using Ardui
 ## Software
 
 * Arduino IDE
-* Embedded C/C++
+* C/C++
 * Libraries:
 
   * SPI
